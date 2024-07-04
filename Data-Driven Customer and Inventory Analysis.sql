@@ -1,4 +1,12 @@
 /*
+Project Overview
+In this project, I used SQL-based data analysis to gain valuable insights into customer behavior and inventory management. By analyzing customer transactions and product performance, I aimed to:
+1. Identify high-value and low-engagement customers.
+2. Optimize customer acquisition costs.
+3. Improve inventory management for better stock control.
+Through this analysis, I was able to make informed strategic decisions to enhance profitability and operational efficiency in a competitive retail landscape. The dataset used for this analysis was provided by Dataquest.io.
+*/
+/*
 Table: customers
 Description: This table contains information about the customers.
 Columns:
